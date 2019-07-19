@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/bilal/Desktop/Mars Rover/MarsRover/MarsRover/MarsRover.Test/MarsRover.Test.csproj": {}
+  },
+  "projects": {
+    "/Users/bilal/Desktop/Mars Rover/MarsRover/MarsRover/MarsRover.Test/MarsRover.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/bilal/Desktop/Mars Rover/MarsRover/MarsRover/MarsRover.Test/MarsRover.Test.csproj",
+        "projectName": "MarsRover.Test",
+        "projectPath": "/Users/bilal/Desktop/Mars Rover/MarsRover/MarsRover/MarsRover.Test/MarsRover.Test.csproj",
+        "packagesPath": "/Users/bilal/.nuget/packages/",
+        "outputPath": "/Users/bilal/Desktop/Mars Rover/MarsRover/MarsRover/MarsRover.Test/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/bilal/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "/Users/bilal/Desktop/Mars Rover/MarsRover/MarsRover/MarsRover/MarsRover.csproj": {
+                "projectPath": "/Users/bilal/Desktop/Mars Rover/MarsRover/MarsRover/MarsRover/MarsRover.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "OpenCover": {
+              "target": "Package",
+              "version": "[4.7.922, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/bilal/Desktop/Mars Rover/MarsRover/MarsRover/MarsRover/MarsRover.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/bilal/Desktop/Mars Rover/MarsRover/MarsRover/MarsRover/MarsRover.csproj",
+        "projectName": "MarsRover",
+        "projectPath": "/Users/bilal/Desktop/Mars Rover/MarsRover/MarsRover/MarsRover/MarsRover.csproj",
+        "packagesPath": "/Users/bilal/.nuget/packages/",
+        "outputPath": "/Users/bilal/Desktop/Mars Rover/MarsRover/MarsRover/MarsRover/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/bilal/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

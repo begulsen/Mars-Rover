@@ -1,0 +1,11 @@
+/Users/bilal/Developer/C#/Mars Rover/MarsRover/MarsRover/MarsRover/bin/Debug/netcoreapp2.2/MarsRover.deps.json
+/Users/bilal/Developer/C#/Mars Rover/MarsRover/MarsRover/MarsRover/bin/Debug/netcoreapp2.2/MarsRover.runtimeconfig.json
+/Users/bilal/Developer/C#/Mars Rover/MarsRover/MarsRover/MarsRover/bin/Debug/netcoreapp2.2/MarsRover.runtimeconfig.dev.json
+/Users/bilal/Developer/C#/Mars Rover/MarsRover/MarsRover/MarsRover/bin/Debug/netcoreapp2.2/MarsRover.dll
+/Users/bilal/Developer/C#/Mars Rover/MarsRover/MarsRover/MarsRover/bin/Debug/netcoreapp2.2/MarsRover.pdb
+/Users/bilal/Developer/C#/Mars Rover/MarsRover/MarsRover/MarsRover/obj/Debug/netcoreapp2.2/MarsRover.csproj.CoreCompileInputs.cache
+/Users/bilal/Developer/C#/Mars Rover/MarsRover/MarsRover/MarsRover/obj/Debug/netcoreapp2.2/MarsRover.AssemblyInfoInputs.cache
+/Users/bilal/Developer/C#/Mars Rover/MarsRover/MarsRover/MarsRover/obj/Debug/netcoreapp2.2/MarsRover.AssemblyInfo.cs
+/Users/bilal/Developer/C#/Mars Rover/MarsRover/MarsRover/MarsRover/obj/Debug/netcoreapp2.2/MarsRover.dll
+/Users/bilal/Developer/C#/Mars Rover/MarsRover/MarsRover/MarsRover/obj/Debug/netcoreapp2.2/MarsRover.pdb
+/Users/bilal/Developer/C#/Mars Rover/MarsRover/MarsRover/MarsRover/obj/Debug/netcoreapp2.2/MarsRover.csprojAssemblyReference.cache

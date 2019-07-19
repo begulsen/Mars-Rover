@@ -1,0 +1,17 @@
+/Users/bilal/Developer/C#/Mars Rover/MarsRover/MarsRover/MarsRover.Test/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/Users/bilal/Developer/C#/Mars Rover/MarsRover/MarsRover/MarsRover.Test/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/Users/bilal/Developer/C#/Mars Rover/MarsRover/MarsRover/MarsRover.Test/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
+/Users/bilal/Developer/C#/Mars Rover/MarsRover/MarsRover/MarsRover.Test/bin/Debug/netcoreapp2.2/MarsRover.Test.deps.json
+/Users/bilal/Developer/C#/Mars Rover/MarsRover/MarsRover/MarsRover.Test/bin/Debug/netcoreapp2.2/MarsRover.Test.runtimeconfig.json
+/Users/bilal/Developer/C#/Mars Rover/MarsRover/MarsRover/MarsRover.Test/bin/Debug/netcoreapp2.2/MarsRover.Test.runtimeconfig.dev.json
+/Users/bilal/Developer/C#/Mars Rover/MarsRover/MarsRover/MarsRover.Test/bin/Debug/netcoreapp2.2/MarsRover.Test.dll
+/Users/bilal/Developer/C#/Mars Rover/MarsRover/MarsRover/MarsRover.Test/bin/Debug/netcoreapp2.2/MarsRover.Test.pdb
+/Users/bilal/Developer/C#/Mars Rover/MarsRover/MarsRover/MarsRover.Test/bin/Debug/netcoreapp2.2/MarsRover.dll
+/Users/bilal/Developer/C#/Mars Rover/MarsRover/MarsRover/MarsRover.Test/bin/Debug/netcoreapp2.2/MarsRover.pdb
+/Users/bilal/Developer/C#/Mars Rover/MarsRover/MarsRover/MarsRover.Test/obj/Debug/netcoreapp2.2/MarsRover.Test.csprojAssemblyReference.cache
+/Users/bilal/Developer/C#/Mars Rover/MarsRover/MarsRover/MarsRover.Test/obj/Debug/netcoreapp2.2/MarsRover.Test.csproj.CoreCompileInputs.cache
+/Users/bilal/Developer/C#/Mars Rover/MarsRover/MarsRover/MarsRover.Test/obj/Debug/netcoreapp2.2/MarsRover.Test.AssemblyInfoInputs.cache
+/Users/bilal/Developer/C#/Mars Rover/MarsRover/MarsRover/MarsRover.Test/obj/Debug/netcoreapp2.2/MarsRover.Test.AssemblyInfo.cs
+/Users/bilal/Developer/C#/Mars Rover/MarsRover/MarsRover/MarsRover.Test/obj/Debug/netcoreapp2.2/MarsRover.Test.csproj.CopyComplete
+/Users/bilal/Developer/C#/Mars Rover/MarsRover/MarsRover/MarsRover.Test/obj/Debug/netcoreapp2.2/MarsRover.Test.dll
+/Users/bilal/Developer/C#/Mars Rover/MarsRover/MarsRover/MarsRover.Test/obj/Debug/netcoreapp2.2/MarsRover.Test.pdb
